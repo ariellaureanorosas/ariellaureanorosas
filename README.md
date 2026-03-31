@@ -12,8 +12,8 @@ Estou estudando **JavaScript, TypeScript, React, Linux + Docker e Python**, dese
 ## 🌐 Onde me encontrar
 
 <p align="left">
-<a href="https://github.com/ariellrosas">
-<img src="https://img.shields.io/badge/GitHub-ARIELLROSAS-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/ariellaureanorosas">
+<img src="https://img.shields.io/badge/GitHub-ARIELLAUREANOROSAS-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="mailto:ariellaureanorosas@gmail.com">
