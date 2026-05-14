@@ -20,7 +20,7 @@ Focado em **desenvolvimento web, automação com Python e infraestrutura Linux**
 
 <div align="center">
 
-[![skillicons](https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,bootstrap,nodejs,git,github,githubactions,docker,linux,vscode,supabase,postgres&theme=dark)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,tailwind,bootstrap,nodejs,git,github,githubactions,docker,linux,vscode,supabase,postgres,sqlite,mysql,selenium,qt&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -28,9 +28,19 @@ Focado em **desenvolvimento web, automação com Python e infraestrutura Linux**
 
 ## Atualmente estudando
 
-- Desenvolvimento web com **JavaScript, TypeScript e React**
-- Automação de tarefas com **Python**
-- Infraestrutura com **Docker e Linux**
+<div align="center">
+
+| Área | Tecnologias |
+|:----:|:-----------:|
+| Linguagens | Python · JavaScript · TypeScript |
+| Web | React · HTML5 · CSS3 · Tailwind · Bootstrap |
+| Backend | Node.js · Django · Supabase |
+| Banco de dados | PostgreSQL · SQLite · MySQL |
+| Automação | Python · Selenium |
+| Infra & DevOps | Docker · Linux · GitHub Actions |
+| Ferramentas | VS Code · Git · GitHub |
+
+</div>
 
 ---
 
