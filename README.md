@@ -1,51 +1,39 @@
-# Olá 👋, eu sou Ariel Rosas
-🇧🇷 Brasil
+<div align="center">
 
-🚀 **Estudante de Tecnologia | Programação, Desenvolvimento Web e Automação**
+# Ariel Laureano Rosas
 
-Atualmente estou focado em aprender **desenvolvimento de software e web, automação de tarefas e infraestrutura Linux** através de projetos práticos.
+**Estudante de Tecnologia** · Brasil 🇧🇷
 
-Estou estudando **JavaScript, TypeScript, React, Linux + Docker e Python**, desenvolvendo scripts e ferramentas para automatizar tarefas e melhorar fluxos de trabalho.
+[![GitHub](https://img.shields.io/badge/GitHub-ariellaureanorosas-181717?style=for-the-badge&logo=github)](https://github.com/ariellaureanorosas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariel%20Laureano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-laureano/)
+[![Gmail](https://img.shields.io/badge/Gmail-ariellaureanorosas-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariellaureanorosas@gmail.com)
 
----
-
-## 🌐 Onde me encontrar
-
-<p align="center">
-<a href="https://github.com/ariellaureanorosas">
-<img src="https://img.shields.io/badge/GitHub-ARIELLAUREANOROSAS-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:ariellaureanorosas@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/ariel-laureano/">
-<img src="https://img.shields.io/badge/LinkedIn-ARIEL%20LAUREANO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
+</div>
 
 ---
 
-# 🛠️ Tecnologias
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,git,docker,linux,bootstrap,nodejs" />
-  </a>
-</p>
+Focado em **desenvolvimento web, automação com Python e infraestrutura Linux**. Construindo projetos práticos para consolidar conhecimento em programação e produtividade.
 
 ---
 
-# 🚀 Objetivos de aprendizado
+## Stack
 
-* Evoluir no **Desenvolvimento web**
-* Criar mais ferramentas de **automação com Python**
-* Aprender mais sobre **Docker e servidores Linux**
-* Desenvolver soluções práticas para **automação e produtividade**
+<div align="center">
+
+[![skillicons](https://skillicons.dev/icons?i=python,js,ts,react,html,css,nodejs,git,docker,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-<p align="center">
- <b>Sempre aprendendo e construindo novos projetos</b>
-</p>
+## Atualmente estudando
+
+- Desenvolvimento web com **JavaScript, TypeScript e React**
+- Automação de tarefas com **Python**
+- Infraestrutura com **Docker e Linux**
+
+---
+
+<div align="center">
+<sub>Sempre aprendendo · Sempre construindo</sub>
+</div>
